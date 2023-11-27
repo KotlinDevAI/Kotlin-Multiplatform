@@ -1,0 +1,2 @@
+- [Making Your Android Application Work on iOS | Kotlin Multiplatform Mobile Beta](https://youtu.be/CIZU_NNAZsA)
+- [The State of Kotlin Multiplatform](https://youtu.be/bz4cQeaXmsI)
